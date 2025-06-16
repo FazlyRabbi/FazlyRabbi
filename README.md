@@ -19,15 +19,13 @@ I’m a Full Stack Web Developer passionate about building error-free websites w
 ✅ HTML5 / CSS3 / SASS / Tailwind/ Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazlyRabbi&layout=compact)
 
 ## ☕ Connect with me!
 [<img src='https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/facebook.png' alt='Facebook' height='40'>](https://www.facebook.com/dev.fazlul)
 [<img src='https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/instagram.png' alt='Instagram' height='40'>](https://www.instagram.com/dev.fazlul)
 [<img src='https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/twitter.png' alt='Twitter' height='40'>](https://twitter.com/dev_fazlul)
 [<img src='https://github.com/FazlyRabbi/fazlulkarim-main/blob/main/img/linkedin.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/md-fazlul-karim-091199225/)
-
 
 ## 📧 For Business Inquiries 
 ✅  ► rabbihasan151537@gmail.com
